@@ -1,4 +1,4 @@
-# Analysing-Patterns-Of-Successful-Video-Games
+# Analysing Patterns Of Successful Video Games
 
 ## Task Description
 
